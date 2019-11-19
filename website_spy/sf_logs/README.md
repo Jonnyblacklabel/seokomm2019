@@ -1,0 +1,1 @@
+Hier liegen Log-Dateien des ScreamingFrog.

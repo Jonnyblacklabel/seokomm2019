@@ -1,0 +1,1 @@
+Hierhin verschiebt KNIME die Crawl Exporte die bereits in BigQuery geladen wurden.

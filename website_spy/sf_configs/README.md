@@ -1,0 +1,1 @@
+Hier liegen die Konfig-Dateien des ScreamingFrog Crawls.

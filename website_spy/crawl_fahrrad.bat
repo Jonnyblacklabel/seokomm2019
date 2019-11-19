@@ -1,0 +1,1 @@
+ScreamingFrogSEOSpiderCli.exe --crawl "https://www.fahrrad.de/fahrraeder/e-bikes/" --config "sf_configs/Fahrrad_Ebike_Products_Crawl.seospiderconfig" --output-folder "sf_exports/fahrrad" --export-format csv --export-tabs "Internal:All" --timestamped-output --project-name seokomm2019 --task-name fahhrad --headless >> "sf_logs/fahrrad_%DATE%.log

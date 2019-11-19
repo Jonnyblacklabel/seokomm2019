@@ -1,0 +1,1 @@
+Hier liegen die Log-Dateien des BigQuery Commandline Tools.
